@@ -1,0 +1,7 @@
+#PT/BR
+Escolha um mapa para jogar. 
+Deixe somente uma peça no mapa para ganhar
+
+#ENGLISH
+Choose a map to play.
+Leave only one tile on the map to win
